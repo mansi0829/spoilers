@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+  
+    "name": "Hide MCU and Peaky Blinder Spoilers",
+    "description": "Trying to save you from MCU and Peaky Blinder Spoiler.",
+    "version": "1.0",
+    "content_scripts": [
+      {
+        "matches": ["http://*/*", "https://*/*"],
+        "js": ["jquery.min.js", "hide-spoiler.js"],
+        "run_at": "document_end"
+      }
+    ]
+  }
