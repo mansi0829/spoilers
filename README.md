@@ -1,5 +1,5 @@
 # spoilers
-Recently Peaky Blinder new season has come and my chrome is filled with its spoilers which is bad and again Doctor Strange Multi Universe is coming soon and i don't want to spoil that so this chrome extension will help me survive through this XD
+Recently Peaky Blinder new season has come and my chrome is filled with its spoilers which is bad and again Doctor Strange in the Multiverse of Madness is coming soon and i don't want to spoil that so this chrome extension will help me survive through this XD
 
 # Features
 
